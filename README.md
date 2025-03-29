@@ -3,8 +3,8 @@
 Este repositório contém anotações úteis(pelo menos para mim) sobre desenvolvimento ✨
 ## 📂 Conteúdo
 
-- 🖥️ [**Atalhos do VS Code**](./atalhos-vscode.md) – Comandos essenciais para aumentar a produtividade.
-- 📱 [**Principais Media Queries**](./media-queries.md) – Tamanhos de tela mais comuns para design responsivo.
+- 🖥️ [**Atalhos do VS Code**](./atalhos-VS-Code.md) – Comandos essenciais para aumentar a produtividade.
+- 📱 [**Principais Media Queries**](./telas-responsivas.md) – Tamanhos de tela mais comuns para design responsivo.
 
 ## 🚀 Como Usar
 
